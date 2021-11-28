@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MySexApp</string>
+    <string name="app_name">Programma_Romana</string>
+    <string name="top_text">Закат раскинулся крестом поверх долин вершины грез,
+        Ты травы завязал узлом и вплел в них прядь моих волос.
+        Ты слал в чужие сны то сумасшедшее видение страны,
+        Где дни светлы от света звезд.</string>
+    <string name="bottom_text">Господином Горных Дорог назову тебя.
+        Кто сказал, что холоден снег?
+        Перевал пройду и порог, перепутие,
+        Перекрестье каменных рек.</string>
+    <string name="middle_button">М Е Л Ь Н И Ц А</string>
 </resources>
