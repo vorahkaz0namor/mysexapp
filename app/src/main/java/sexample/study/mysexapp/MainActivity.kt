@@ -10,6 +10,7 @@ const val TAG = "MainActivity"
 class MainActivity : AppCompatActivity() {
 
     // lateinit var istring: String
+    // I'm back to the loop!!!
     var i: Int = 0
     var stikh: List<String> = listOf(
         "Дождём веки размыло,",
