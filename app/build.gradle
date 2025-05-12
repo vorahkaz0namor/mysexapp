@@ -16,6 +16,8 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    namespace = "sexample.study.mysexapp"
+
     buildTypes {
         release {
             minifyEnabled false
